@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534076643636",
+    "project_id": "myanmar-educational",
+    "storage_bucket": "myanmar-educational.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534076643636:android:14ce6ee36793c207212d61",
+        "android_client_info": {
+          "package_name": "com.example.myanmar_educational"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlv18yWmAU_4utKTBuH1eL2bUeLRSXOAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
